@@ -11,5 +11,7 @@
 8.  [Lab 8 - Classification - SVM](/src/sklearn/Lab%208%20-%20Classification%20-%20SVM.ipynb)
 9.  [Lab 9 - Clustering - K Means](/src/sklearn/Lab%209%20-%20Clustering%20-%20K%20Means.ipynb)
 10.  [Lab 10 - Clustering - Hierarchical Clustering](/src/sklearn/Lab%2010%20-%20Clustering%20-%20Hierarchical%20Clustering.ipynb)
+11.  [Lab 11 - Clustering - DBSCAN](/src/sklearn/Lab%2011%20-%20Clustering%20-%20DBSCAN.ipynb)
+12.  [Lab 12 - Recommendation System - Content-Based](/src/sklearn/Lab%2012%20-%20Recommendation%20System%20-%20Content-Based.ipynb)
 
 [Final Project - Loan Prediction](/src/sklearn/14-Final-Project-Loan-Prediction/)
